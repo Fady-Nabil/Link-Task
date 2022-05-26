@@ -1,0 +1,27 @@
+F:\Work Space\Ecommerce\Core\bin\Debug\net6.0\Core.deps.json
+F:\Work Space\Ecommerce\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+F:\Work Space\Ecommerce\Core\bin\Debug\net6.0\Core.dll
+F:\Work Space\Ecommerce\Core\bin\Debug\net6.0\Core.pdb
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.dll
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\refint\Core.dll
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.pdb
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+F:\Work Space\Ecommerce\Core\obj\Debug\net6.0\ref\Core.dll
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\bin\Debug\net6.0\Core.deps.json
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\bin\Debug\net6.0\Core.dll
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\bin\Debug\net6.0\ref\Core.dll
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\bin\Debug\net6.0\Core.pdb
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.dll
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\ref\Core.dll
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.pdb
+F:\work-space\AspCore-Angular\Link-Task\Web\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Core.Entities;
+
+namespace Core.Specification
+{
+    public class ProductWithFilterForCountSpecification : BaseSpecipication<Product>
+    {
+        public ProductWithFilterForCountSpecification(ProductSpecParams productParams) 
+            : base(x => // (String.IsNullOrEmpty(productParams.Search) || x.Name.ToLower().Contains(productParams.Search)) &&
+            (!productParams.CategoryId.HasValue || x.ProductCategoryId == productParams.CategoryId)
+        )
+        {
+            
+        }
+    }
+}
